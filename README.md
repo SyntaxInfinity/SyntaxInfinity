@@ -24,6 +24,9 @@
 
 ## 🔗 Conecta conmigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/alex-ponce-66394a356/)  
-- 📸 [Instagram](https://www.instagram.com/a.l.e.3.x/) 
+- 📸 [Instagram](https://www.instagram.com/a.l.e.3.x/)
+
+> *“Energética + cafe = proyecto completo”*
+
 
 -----
