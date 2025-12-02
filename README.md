@@ -2,8 +2,9 @@
 
 ---
 
-💼 &nbsp;Estudiante de Ingeniería en Informática con foco en desarrollo backend y construcción de soluciones prácticas. Me gusta aprender tecnologías nuevas, mejorar mis proyectos y entender cómo funciona todo “por dentro”.
-🌱 &nbsp;Actualmente aprendiendo más sobre backend, APIs y desarrollo web moderno.
+💼 Estudiante de Ingeniería en Informática con foco en desarrollo backend y construcción de soluciones prácticas. Me gusta aprender tecnologías nuevas, mejorar mis proyectos y entender cómo funciona todo “por dentro”.
+
+🌱 Actualmente aprendiendo más sobre backend, APIs y desarrollo web moderno.
 
 ## 🚀 Tecnologias que utilizo 
 
