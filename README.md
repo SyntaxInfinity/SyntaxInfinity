@@ -12,7 +12,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat)
+![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbwAAAIACAYAAAD5UNlMAAAQAElEQVR4AeydC3x...eunirYJobZ1g5ft7uJlMaRDAnSzGklA2NgAESN3QoCQkMw873NCBpKQkLmcc+Zc)
+
 
 ## 🧩 Tecnologias que estoy aprendiendo
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
