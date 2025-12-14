@@ -28,7 +28,7 @@
 ---
 
 ## 🔗 Conectar conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/alex-ponce-66394a356/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/benjamín-ponce-66394a356/)  
 - 📸 [Instagram](https://www.instagram.com/a.l.e.3.x/)
 
 
